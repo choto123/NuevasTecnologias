@@ -1,2 +1,7 @@
 En el dia de hoy, los temas tratados son:
+<<<<<<< HEAD
 ramas como ignorar archivos para no ser comprometidos en el area de trabajo
+=======
+ramas como ignorar archivos para no ser comprometidos en el area de trabajo
+volvemos a copoiar cualquier cosa
+>>>>>>> Rama2
