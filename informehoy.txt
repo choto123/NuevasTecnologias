@@ -1,1 +1,2 @@
 En el dia de hoy, los temas tratados son:
+ramas como ignorar archivos para no ser comprometidos en el area de trabajo
